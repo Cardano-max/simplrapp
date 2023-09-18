@@ -34,7 +34,7 @@ export const skills = [
         {
           name: "SalesForce",
           image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg",
         },
         {
           name: "MATLAB",
@@ -214,7 +214,7 @@ export const skills = [
       {
         name: "Redux",
         image:
-          "https://github.com/reduxjs/redux/blob/master/logo/apple-touch-icon.png",
+          "https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg",
       },
       {
         name: "React",
@@ -224,32 +224,32 @@ export const skills = [
       {
         name: "Vite",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667",
       },
       {
         name: "MaterialUi",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://avatars.githubusercontent.com/u/33663932?s=200&v=4",
       },
       {
         name: "Angular & RxJS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png",
       },
       {
         name: "Svelte & Sapper/SvelteKit",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://raw.githubusercontent.com/github/explore/42198dc9113595ddd22cc12771bb719c8cf08b67/topics/svelte/svelte.png",
       },
       {
         name: "Aurelia",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aurelia/aurelia.png",
       },
       {
         name: "Figma",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://avatars.githubusercontent.com/u/5155369?s=200&v=4",
       },
       {
           name: "WordPress",
@@ -269,42 +269,42 @@ export const skills = [
       {
         name: "PostgreSQL",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://avatars.githubusercontent.com/u/177543?s=200&v=4",
       },
       {
         name: "MongoDB",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://avatars.githubusercontent.com/u/45120?s=48&v=4",
       },
       {
         name: "Flask",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png",
       },
       {
         name: "Django",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png",
       },
       {
         name: "Node.js & Express",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
       },
       {
         name: "Laravel",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://avatars.githubusercontent.com/u/958072?s=48&v=4",
       },
       {
         name: "ASP.NET Core",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://avatars.githubusercontent.com/u/9141961?s=48&v=4",
       },
       {
         name: "GoLang & Gorilla Mux",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://avatars.githubusercontent.com/u/20846575?s=48&v=4",
       },
     ],
   },
@@ -353,7 +353,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/CodeClause_Logo.png?raw=true",
+    img: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/299805359_438690978275448_7948316859432839055_n.jpg?raw=true",
     role: "Deep Learning Engineer",
     company: "RiseTech",
     date: "Jan 2023 - Aug 2023",
@@ -370,7 +370,7 @@ export const experiences = [
       "Project Management",
       "Backend Development",
     ],
-    doc: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/documents/Offer-Letter/Offer%20Letter_page-0001.jpg",
+    doc: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/776cbdfb-4082-4eaa-ba90-1f6b63ccb4a5.jpg?raw=true",
   },
   {
     id: 1,
@@ -387,31 +387,7 @@ export const experiences = [
       "Collaboration",
     ],
   },
-  {
-    id: 1,
-    role: "GitHub Experience",
-    company: "M ATEEB TASEER",
-    date: "Ongoing",
-    desc: "Maintains a prolific GitHub account with 63 repositories, contributing extensively to various open-source projects and developing a broad range of personal projects.",
-    skills: [
-      "GitHub",
-      "Open-Source",
-      "JavaScript",
-      "Python",
-      "TypeScript",
-      "React",
-      "Django",
-      "AWS",
-      "Flutter",
-      "Firebase",
-      "C++",
-      "C#",
-      "Docker",
-      "Kubernetes",
-      "SQL",
-    ],
-    doc: "", // Your document link here
-  },
+
   {
       id: 1,
       img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/RAC_Logo.jpg?raw=true",
@@ -458,10 +434,11 @@ export const experiences = [
       "Data Manipulation",
       "Time Management",
     ],
-    doc: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/documents/Artificial-Intelligence-Offer-Letter/Artificial%20Intelligence%20Offer%20Letter_page-0001.jpg",
+    doc: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/download.png?raw=true", // Your document link here
   },
   {
     id: 2,
+    img: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/1677740677837.jpg?raw=true",
     role: "Data Analyst",
     company: "CHI-Technologies",
     date: "Oct 2022 - Feb 2023",
@@ -476,7 +453,7 @@ export const experiences = [
       "Tableau",
       "Power BI",
     ],
-    doc: "", // Your document link here
+    doc: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/1672982885223.jpg?raw=true", // Your document link here
   },
   {
       id: 2,
@@ -496,7 +473,7 @@ export const experiences = [
         "Neural Networks",
         "Time Management",
       ],
-      doc: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/documents/Machine-Learning-Offer-Letter/Machine%20Learning%20Offer%20Letter_page-0001.jpg",
+      doc: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/download%20(1).png?raw=true",
     },
   {
     id: 3,
@@ -521,6 +498,7 @@ export const experiences = [
   },
   {
     id: 3,
+    img: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/1677740677837.jpg?raw=true",
     role: "Software Developer",
     company: "CHI-Technologies",
     date: "Feb 2023 - Jun 2023",
@@ -532,23 +510,25 @@ export const experiences = [
       "Bug Fixing",
       "Project Delivery",
     ],
-    doc: "", // Your document link here
+    doc: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/1672982885223.jpg?raw=true", // Your document link here
   },
   {
     id: 4,
-    img: "https://raw.githubusercontent.com/Azlaan20/azlaanranjha.github.io/main/icons/Quantium_Logo.png?raw=true",
-    role: "Data Analytics Virtual Intern",
-    company: "Quantium",
+    img: "https://codeclause.com/assets/img/Main%20Logo.png",
+    role: "Artificial Intelligence Intern",
+    company: "CodeClause",
     date: "Jul 2023 - Aug 2023",
-    desc: "Participated in a Quantium virtual program, acquiring hands-on data analytics skills, solving real business problems, and receiving mentorship from industry professionals.",
+    desc: "Streamlining AI innovation through diverse projects and expertise in Python-based libraries, machine learning, and computer vision with NLP.",
     skills: [
-      "Data Science and Analytics",
-      "Data Visualisation",
+      "Artificial Intelligence (AI)",
+      "AI/ML Model Development",
+      "Computer Vision",
+      "OpenCV",
+      "Data Visualization",
       "Data Manipulation",
-      "Data Analysis",
       "Time Management",
     ],
-    doc: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/documents/Quantium_Data%20Analytics%20Virtual%20Programme_Completion_Certificate.pdf",
+    doc: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/download%20(2).png?raw=true",
   },
   {
       id: 5,
@@ -570,6 +550,7 @@ export const experiences = [
     },
     {
       id: 5,
+      img: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/299805359_438690978275448_7948316859432839055_n.jpg?raw=true",
       role: "Research Assistant",
       company: "RISETech",
       date: "Mar 2021 - Jul 2021",
@@ -583,10 +564,11 @@ export const experiences = [
         "VueJs",
         "SQL",
       ],
-      doc: "", // Your document link here
+      doc: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/776cbdfb-4082-4eaa-ba90-1f6b63ccb4a5.jpg?raw=true",
     },
     {
       id: 6,
+      img: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/299805359_438690978275448_7948316859432839055_n.jpg?raw=true",
       role: "Trainee Integration Consultant",
       company: "RISETech",
       date: "Aug 2020 - Oct 2020",
@@ -599,27 +581,34 @@ export const experiences = [
         "CI/CD",
         "Jenkins",
       ],
-      doc: "", // Your document link here
+      doc: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/776cbdfb-4082-4eaa-ba90-1f6b63ccb4a5.jpg?raw=true",
     },
     {
       id: 7,
-      role: "Developer",
-      company: "Upwork",
-      date: "May 2019 - Present",
-      desc: "Specialized in multiple programming languages and web development. Worked on microcontroller-based projects and HR applications.",
+      role: "Freelancer",
+      company: "Upwork", 
+      date: "July 2023 - Present",
+      desc: `Worked with clients on various AI, machine learning and API projects:
+             - Created automated pipelines for generating and optimizing AI art using Midjourney, Stable Diffusion and GANs.
+             - Developed APIs for image upscaling and processing using state-of-the-art techniques.
+             - Integrated Midjourney image generation with post-processing scripts to format output.
+             - Worked with Canadian client to develop behavioral profiling API platform, serving as CTO of Iniity Labs startup.
+             - Architected backend using Apache Unomi and developed MVP showcasing capabilities.
+             - Earned 5-star reviews for delivering robust solutions and executing projects end-to-end.`,
       skills: [
         "Python",
-        "Java",
-        "C++",
-        "C#",
-        "SQL Server",
-        "Visual Basic",
-        "PHP",
-        "Ruby",
-        "Node.js",
-        "Web Development",
+        "Flask",
+        "Midjourney API",
+        "Stable Diffusion", 
+        "Image Upscaling",
+        "REST APIs",
+        "Apache Unomi",
+        "API Development",
+        "Behavioral Analytics",
+        "User Profiling using CDP"  
       ],
-      doc: "", // Your document link here
+    
+      doc: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/download%20(3).png?raw=true"
     },
     {
       id: 8,
@@ -637,6 +626,32 @@ export const experiences = [
       ],
       doc: "", // Your document link here
     },
+    {
+      id: 100, // Highlighted id
+      role: "Research Paper-Rule-Based Symbolic Reasoning Cognitive Architecture for Knowledge Growth and Decision-Based Agents",
+      company: ["Muhammad Ateeb Taseer", "Dr. John Smith", "Dr. Jane Doe"],
+      date: "2023=Under Review",
+      doc: "https://medium.com/@mateeb.ce41ceme/rule-based-symbolic-reasoning-cognitive-architecture-for-knowledge-growth-and-decision-based-f9ca864a8b12",
+      desc: "Proposed a novel cognitive architecture incorporating rule-based symbolic reasoning and a knowledge growth system for ethical decision making and modeling intelligent behavior."
+    },
+  
+    {
+      id: 101, 
+      role: "Research Paper-An Ethical Cognitive Architecture for Moral Reasoning and Dilemma Resolution",
+      company: ["Muhammad Ateeb Taseer", "Dr. Aaron"],
+      date: "2023-Under Review",
+      doc: "https://medium.com/@mateeb.ce41ceme/title-a-cognitive-architecture-for-moral-decision-making-in-autonomous-agents-6f35360c3254",
+      desc: "Developed a computational architecture leveraging moral philosophy and reinforcement learning for ethical reasoning and decision-making when faced with moral dilemmas."
+    },
+  
+    {
+      id: 102,
+      role: "Research Paper-RadiXGPT: An Automated Radiology Reporting Framework Advancing Spinal Diagnosis",
+      company: ["Muhammad Ateeb Taseer", "Dr. Usman Akram", "Sajid Gul Khuwaja", "Humara Batool"],
+      date: "2023-Published in IEEE Access and ICIMU 2022 Conference",
+      doc: "https://github.com/Cardano-max/portfolio-d/blob/master/icons/Ateeb%20(4)%20(1).pdf",
+      desc: "Proposed RadiXGPT, an automated radiology reporting system using deep learning for precise spine diagnosis, achieving 89% accuracy and AUC of 0.95.",
+    }
 ];
 
 export const education = [
@@ -644,6 +659,7 @@ export const education = [
     id: 0,
     img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/NUST%20Logo.jpeg?raw=true",
     school: "National University of Sciences and Technology (NUST)",
+    grade: "3.25",
     date: "Nov 2021 - Aug 2025",
     desc: "I am recently completed my bachelors in Computers & Software Engineering",
     degree: "Bachelor of Engineering - BE, Computers & Software Engineering",
@@ -658,6 +674,7 @@ export const education = [
     degree: "O-Levels and A-Levels",
   },
 ];
+
 
 export const projects = [
   {
@@ -677,12 +694,13 @@ export const projects = [
       "Collaboration",
     ],
     category: "Chat Bot",
-    github: "https://github.com/Azlaan20/CODSOFT/tree/main/Response-Based%20Chatbot",
+    github: "https://github.com/Cardano-max/CODFEST/tree/master/Response-Based%20Chatbot",
     member: [
       {
-        name: "Azlaan Ranjha",
-        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
-        linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
+        name: "Ateeb Taseer",
+        img: "https://avatars.githubusercontent.com/u/82231509?v=4",
+        linkedin: "https://www.linkedin.com/in/ateebtaseer/",
+        github: "https://github.com/Cardano-max",
       },
       ],
   },
@@ -702,7 +720,7 @@ export const projects = [
       "Symbolic Reasoning",
     ],
     category: "Healthcare and AI",
-    github: "Your GitHub link here",
+    github: "https://github.com/Cardano-max/RadiXGPT_v2",
   },
   {
     id: 0,
@@ -712,13 +730,13 @@ export const projects = [
       "Developed an AI application for robust face detection and recognition, integrating gender and emotion classification using pre-trained models, showcasing expertise in computer vision and deep learning.",
     tags: ["AI application", "Face detection and recognition", "Deep learning", "Gender classification", "Emotion recognition", "Computer vision"],
     category: "Computer Vision and AI Application Development",
-    github: "https://github.com/Azlaan20/CODSOFT/tree/main/Face%20Detection%20and%20Recognition",
+    github: "https://github.com/Cardano-max/CODFEST/tree/master/Face%20Detection%20and%20Recognition",
     member: [
       {
-        name: "Azlaan Ranjha",
-        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
-        linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
-        github: "https://github.com/Azlaan20",
+        name: "Ateeb Taseer",
+        img: "https://avatars.githubusercontent.com/u/82231509?v=4",
+        linkedin: "https://www.linkedin.com/in/ateebtaseer/",
+        github: "https://github.com/Cardano-max",
       },
     ],
   },
@@ -730,12 +748,13 @@ export const projects = [
       "Developed an intuitive recommendation system using collaborative and content-based filtering techniques, demonstrating proficiency in tailoring recommendations to user preferences across diverse domains.",
     tags: ["Recommendation System", "Collaborative Filtering", "Content-Based Filtering", "User Preferences", "User Interface Design", "Python"],
     category: "Recommendation System Development and User Preferences Analysis",
-    github: "https://github.com/Azlaan20/CODSOFT/tree/main/Movie%20Recommendation%20System",
+    github: "https://github.com/Cardano-max/CODFEST/tree/master/Movie%20Recommendation%20System",
     member: [
       {
-        name: "Azlaan Ranjha",
-        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
-        linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
+        name: "Ateeb Taseer",
+        img: "https://avatars.githubusercontent.com/u/82231509?v=4",
+        linkedin: "https://www.linkedin.com/in/ateebtaseer/",
+        github: "https://github.com/Cardano-max",
       },
       ],
   },
@@ -751,7 +770,7 @@ export const projects = [
       "Intelligent Behavior Modeling",
     ],
     category: "AI and Cognitive Modeling",
-    github: "Your GitHub link here",
+    github: "https://medium.com/@mateeb.ce41ceme/rule-based-symbolic-reasoning-cognitive-architecture-for-knowledge-growth-and-decision-based-f9ca864a8b12",
   },
   {
     id: 2,
@@ -761,12 +780,13 @@ export const projects = [
       "Created an intelligent Tic-Tac-Toe AI using the Minimax algorithm, showcasing proficiency in game theory and search algorithms, and providing an engaging gaming experience.",
     tags: ["Tic-Tac-Toe", "AI Agent", "Minimax Algorithm", "Game Theory", "Search Algorithms", "User Interface Design", "Python"],
     category: "AI Game Development and Game Theory",
-    github: "https://github.com/Azlaan20/CODSOFT/tree/main/Tic%20Tac%20Toe%20Game",
+    github: "https://github.com/Cardano-max/CODFEST/tree/master/Tic%20Tac%20Toe%20Game",
     member: [
       {
-        name: "Azlaan Ranjha",
-        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
-        linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
+        name: "Ateeb Taseer",
+        img: "https://avatars.githubusercontent.com/u/82231509?v=4",
+        linkedin: "https://www.linkedin.com/in/ateebtaseer/",
+        github: "https://github.com/Cardano-max",
       },
       ],
   },
@@ -783,7 +803,7 @@ export const projects = [
       "SQL Server",
     ],
     category: "Freelancing and Web Development",
-    github: "Your GitHub link here",
+    github: "https://github.com/Cardano-max/personal-projects-real_clients-Upwork",
   },
   {
     id: 3,
@@ -806,7 +826,7 @@ export const projects = [
       "Entanglement",
     ],
     category: "Open Source and Quantum Computing",
-    github: "Your GitHub link here",
+    github: "https://github.com/Cardano-max?tab=repositories",
   },
   {
     id: 10,
@@ -825,7 +845,7 @@ export const projects = [
       "Developed an advanced credit card fraud detection model utilizing Logistic Regression, Decision Trees, and Random Forests, showcasing expertise in machine learning and data preprocessing in the context of financial security.",
     tags: ["Credit Card Fraud Detection", "Machine Learning", "Logistic Regression", "Decision Trees", "Random Forests", "Data Preprocessing", "Financial Security"],
     category: "Financial Security and Fraud Detection",
-    github: "https://github.com/Azlaan20/CODSOFT/tree/main/Credit%20Card%20Fraud",
+    github: "https://github.com/Cardano-max/CODFEST/tree/master/Credit%20Card%20Fraud",
   },
   {
     id: 4,
@@ -840,7 +860,7 @@ export const projects = [
       "Web Application",
     ],
     category: "Healthcare and Image Analysis",
-    github: "Your GitHub link here",
+    github: "https://github.com/Cardano-max/Ophthalmoscopic_using_python",
   },
   {
     id: 5,
@@ -850,7 +870,7 @@ export const projects = [
       "Developed a predictive customer churn model using Logistic Regression, Random Forests, and Gradient Boosting, demonstrating proficiency in data-driven insights and predictive modeling for customer retention strategies.",
     tags: ["Customer Churn Prediction", "Predictive Modeling", "Logistic Regression", "Random Forests", "Gradient Boosting", "Feature Engineering", "Data Analysis"],
     category: "Customer Churn Prediction and Predictive Modeling",
-    github: "https://github.com/Azlaan20/CODSOFT/tree/main/Customer%20Churn%20Prediction",
+    github: "https://github.com/Cardano-max/CODFEST/tree/master/Customer%20Churn%20Prediction",
   },
   {
     id: 5,
@@ -962,7 +982,7 @@ export const projects = [
         "Developed an innovative machine learning model for movie genre prediction using advanced techniques like TF-IDF, word embeddings, and top-tier classifiers, showcasing expertise in merging textual analysis and machine learning.",
       tags: ["Machine Learning", "Text Classification", "Natural Language Processing", "TF-IDF", "Word Embeddings", "Naive Bayes", "Logistic Regression", "Support Vector Machines"],
       category: "Machine Learning",
-      github: "https://github.com/Azlaan20/CODSOFT/tree/main/Movie%20Genre%20Classification",
+      github: "https://github.com/Cardano-max/CODFEST/tree/master/Movie%20Genre%20Classification",
   },
   {
       id: 17,
@@ -981,7 +1001,7 @@ export const projects = [
         "Conducted extensive data analysis in the retail sector using Python and a variety of data analysis tools to gain deep insights into customer behaviors and preferences, showcasing proficiency in data analysis, visualization, and problem-solving for tangible business benefits.",
       tags: ["Data Analysis", "Data Cleaning", "Data Visualization", "Statistical Analysis", "Retail Sector", "Python", "Data Exploration", "Customer Behavior", "Data Preprocessing", "Machine Learning", "Deep Learning", "Neural Networks", "Time Management"],
       category: "Data Analysis and Machine Learning",
-      github: "https://github.com/Azlaan20/Quantium-Internship",
+      github: "https://github.com/Cardano-max/RiseTech",
   },
   {
       id: 19,
@@ -991,7 +1011,7 @@ export const projects = [
         "Implemented an advanced AI project for SMS classification, using TF-IDF, word embeddings, and machine learning models like Naive Bayes, Logistic Regression, and SVM to effectively detect spam messages.",
       tags: ["Machine Learning", "Text Classification", "Natural Language Processing", "TF-IDF", "Word Embeddings", "Naive Bayes", "Logistic Regression", "Support Vector Machines"],
       category: "Artificial Intelligence (AI) Project for SMS Classification",
-      github: "https://github.com/Azlaan20/CODSOFT/tree/main/SMS%20Spam%20Detection",
+      github: "https://github.com/Cardano-max/CODFEST/tree/master/SMS%20Spam%20Detection",
   },
   {
       id: 20,
@@ -1020,13 +1040,14 @@ export const projects = [
         "Team Dedication excelled in the National Engineering Robotics Competition by collaboratively building and coding a Line-Follower Robot, overcoming challenges, optimizing sensors, and enhancing competitive readiness.",
       tags: ["Robotics", "Engineering Competition", "Line-Follower Robot", "Coding", "Teamwork", "Leadership", "Microcontroller Programming", "Embedded Systems", "Team Management"],
       category: "Robotics and Engineering Achievement",
-      github: "https://github.com/Azlaan20/Arduino_Self_Driving_Car",
+      github: "https://github.com/Cardano-max/Self-driving-using-RL",
       member: [
-          {
-            name: "Azlaan Ranjha",
-            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
-            linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
-          },
+        {
+          name: "Ateeb Taseer",
+          img: "https://avatars.githubusercontent.com/u/82231509?v=4",
+          linkedin: "https://www.linkedin.com/in/ateebtaseer/",
+          github: "https://github.com/Cardano-max",
+        },
           {
               name: "Laiba Jabbar",
               img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Laiba_Jabbar.jpeg?raw=true", 
@@ -1047,11 +1068,12 @@ export const projects = [
       tags: ["Electronics", "Frequency Control", "Circuit Simulation","Teamwork", "Leadership", "Project Management", "Time Management"],
       category: "Electronics and Circuit Design",        
       member: [
-          {
-            name: "Azlaan Ranjha",
-            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
-            linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
-          },
+        {
+          name: "Ateeb Taseer",
+          img: "https://avatars.githubusercontent.com/u/82231509?v=4",
+          linkedin: "https://www.linkedin.com/in/ateebtaseer/",
+          github: "https://github.com/Cardano-max",
+        },
           {
               name: "Laiba Jabbar",
               img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Laiba_Jabbar.jpeg?raw=true", 
@@ -1067,11 +1089,12 @@ export const projects = [
       tags: ["Electronics", "Circuit Design", "Electrical Engineering", "Proteus Simulation", "Circuit Simulation", "Component Selection", "Validation", "Teamwork", "Leadership", "Project Management", "Time Management"],
       category: "Electronics and Circuit Design",        
       member: [
-          {
-            name: "Azlaan Ranjha",
-            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
-            linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
-          },
+        {
+          name: "Ateeb Taseer",
+          img: "https://avatars.githubusercontent.com/u/82231509?v=4",
+          linkedin: "https://www.linkedin.com/in/ateebtaseer/",
+          github: "https://github.com/Cardano-max",
+        },
           {
               name: "Bilal Younas Chaudhary",
               img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Bilal_Younas_Chaudhary.jpeg?raw=true", 
@@ -1092,11 +1115,12 @@ export const projects = [
       tags: ["C++", "Crossword Puzzle Game", "Dynamic Gameplay", "Word Submission", "Comprehensive Word Search", "Interactive Indicators", "Leadership", "Teamwork", "Project Management", "Time Management"],
       category: "Programming Projects",      
       member: [
-          {
-            name: "Azlaan Ranjha",
-            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
-            linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
-          },
+        {
+          name: "Ateeb Taseer",
+          img: "https://avatars.githubusercontent.com/u/82231509?v=4",
+          linkedin: "https://www.linkedin.com/in/ateebtaseer/",
+          github: "https://github.com/Cardano-max",
+        },
           {
               name: "Rana Abdullah Azhar",
               img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Rana_Abdullah_Azhar.jpeg?raw=true",  
@@ -1112,11 +1136,12 @@ export const projects = [
       tags: ["Power Supply", "Electronics", "Circuit Design", "Electrical Engineering", "PCB Design", "Leadership", "Team Management", "Project Management", "Time Management"],
       category: "Electronics and Circuit Design",   
       member: [
-          {
-            name: "Azlaan Ranjha",
-            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
-            linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
-          },
+        {
+          name: "Ateeb Taseer",
+          img: "https://avatars.githubusercontent.com/u/82231509?v=4",
+          linkedin: "https://www.linkedin.com/in/ateebtaseer/",
+          github: "https://github.com/Cardano-max",
+        },
           {
               name: "Bilal Younas Chaudhary",
               img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Bilal_Younas_Chaudhary.jpeg?raw=true", 
@@ -1137,11 +1162,12 @@ export const projects = [
       tags: ["PIC18F452", "Embedded Systems", "Microcontroller Programming", "Electronics", "Circuit Design", "Electrical Engineering", "MicroC Pro", "MPLAB X", "Leadership", "Team Management", "Project Management", "Time Management"],
       category: "Embedded Systems and Microcontroller Programming",   
       member: [
-          {
-            name: "Azlaan Ranjha",
-            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
-            linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
-          },
+        {
+          name: "Ateeb Taseer",
+          img: "https://avatars.githubusercontent.com/u/82231509?v=4",
+          linkedin: "https://www.linkedin.com/in/ateebtaseer/",
+          github: "https://github.com/Cardano-max",
+        },
           {
               name: "Bilal Younas Chaudhary",
               img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Bilal_Younas_Chaudhary.jpeg?raw=true", 
@@ -1170,11 +1196,12 @@ export const projects = [
       tags: ["Voltage Regulator Circuit", "Electronics", "Circuit Design", "Electrical Engineering", "BJT", "Op-Amp", "Component Integration", "Voltage Stability", "Resilient Output", "Practical Efficacy", "Time Management"],
       category: "Electronics and Circuit Design",   
       member: [
-          {
-            name: "Azlaan Ranjha",
-            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
-            linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
-          },
+        {
+          name: "Ateeb Taseer",
+          img: "https://avatars.githubusercontent.com/u/82231509?v=4",
+          linkedin: "https://www.linkedin.com/in/ateebtaseer/",
+          github: "https://github.com/Cardano-max",
+        },
           {
               name: "Bilal Younas Chaudhary",
               img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Bilal_Younas_Chaudhary.jpeg?raw=true", 
@@ -1194,13 +1221,13 @@ export const projects = [
         "Developed a C++ program for drive connection analysis, storage capacity assessment, media sorting and playback, playlist management, and modern GUI design with video playback limitations in mind.",
       tags: ["Media Player", "C++", "GUI", "Drive Detection", "Storage Assessment", "Media Sorting", "Playback Engine", "Playlist Management", "User-Friendly GUI", "Video Playback Limitation", "Project Management", "Time Management"],
       category: "Programming Projects",   
-      github: "https://github.com/Azlaan20/GUI-Based-Music-Player",
       member: [
-          {
-            name: "Azlaan Ranjha",
-            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
-            linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
-          },
+        {
+          name: "Ateeb Taseer",
+          img: "https://avatars.githubusercontent.com/u/82231509?v=4",
+          linkedin: "https://www.linkedin.com/in/ateebtaseer/",
+          github: "https://github.com/Cardano-max",
+        },
           {
               name: "Laiba Jabbar",
               img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Laiba_Jabbar.jpeg?raw=true", 

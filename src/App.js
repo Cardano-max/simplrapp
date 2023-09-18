@@ -43,6 +43,7 @@ function App() {
           <Wrapper>
             <Skills />
             <Experience />
+           < researchExperience />
           </Wrapper>
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <Wrapper>
