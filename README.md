@@ -2,7 +2,7 @@
   <img src="https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/web%20interface/Header.png" alt="Portfolio Header" width="3200px" />
 </div>
 
-# Azlaan Ranjha - Portfolio
+# Ateeb Taseer - Portfolio
 
 Welcome to my captivating digital realm! 🚀 This isn't just a portfolio; it's a journey through the art and science of web development.
 
